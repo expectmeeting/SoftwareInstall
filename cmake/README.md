@@ -23,9 +23,9 @@ $ cmake --version
 $ getconf LONG_BIT
 ~~~
 
-然后，上[官网][https://cmake.org/download]下载对应的压缩包。
+然后，上[官网](https://cmake.org/download)下载对应的压缩包。
 
-![fig 1](C:\git_repository\SoftwareInstall\cmake\fig1.png)
+![fig 1](https://github.com/expectmeeting/SoftwareInstall/blob/master/cmake/fig1.png)
 
 ~~~
 $ wget https://cmake.org/download/cmake-3.13.4-Linux-x86_64.tar.gz
